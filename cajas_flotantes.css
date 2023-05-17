@@ -1,0 +1,6 @@
+#indice, #contenido{
+	overflow: auto;
+}
+#indice ul ol li{
+	overflow: auto;
+}

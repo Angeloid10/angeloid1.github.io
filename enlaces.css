@@ -1,0 +1,28 @@
+#indice li>a{
+	color: red;
+	text-decoration: none;
+}
+#indice ul ol li {
+	font-size: smaller;
+}
+#indice li>a:hover {
+	background-color: white;
+	color: grey;
+	text-transform: uppercase;
+}
+#indice li>a:visited{
+	color: yellow;
+	font-style: italic;
+	text-decoration: none;
+}
+#piedepagina a{
+	color: green;
+	text-decoration: none;
+}
+#piedepagina a:hover{
+	background-color: white;
+	border-style: solid;
+	border-color: black;
+	font-family: Teal;
+	font-style: normal;
+}

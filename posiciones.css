@@ -1,0 +1,37 @@
+#cabecera{
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	height: 10%;
+	width: 93%;
+}
+#indice{
+	position: absolute;
+	top: 13%;
+	left: 0%;
+	height: 75%;
+	width: 27%;
+}
+#contenido{
+	position: absolute;
+	top: 13%;
+	left: 30%;
+	height: 75%;
+	width: 65%;
+}
+#piedepagina{
+	position: absolute;
+	top: 89%;
+	left: 2%;
+	height: 10%;
+	width: 93%;
+}
+#cabecera, #indice, #contenido, #piedepagina{
+	border:solid;
+	border-color: black;
+}
+#imagen{
+	float: right;
+	width: 11%; 
+}
+

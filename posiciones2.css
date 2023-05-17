@@ -1,0 +1,25 @@
+#cabecera{
+	position: absolute;
+	top: 2%;
+	left: 2%;
+	height: 10%;
+	width: 93%;
+}
+#contenido{
+	position: absolute;
+	top: 13%;
+	left: 2%;
+	height: 75%;
+	width: 93%;
+}
+#piedepagina{
+	position: absolute;
+	top: 89%;
+	left: 2%;
+	height: 10%;
+	width: 93%;
+}
+#cabecera, #contenido, #piedepagina{
+	border:solid;
+	border-color: black;
+}
